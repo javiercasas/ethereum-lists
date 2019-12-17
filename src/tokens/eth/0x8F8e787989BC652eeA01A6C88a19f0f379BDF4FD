@@ -1,0 +1,37 @@
+{
+"symbol": "HLX",
+
+"name": "Helex",
+
+"type": "ERC20",
+
+"address": "0x8F8e787989BC652eeA01A6C88a19f0f379BDF4FD",
+"ens_address": "",
+"decimals": 5,
+"website": "https://helex.world",
+"logo": {
+    "src": "https://helex.world/logoescan.png",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "contact@helex.world",
+    "url": ""
+},
+"social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/helexcorp",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/helexcorp",
+    "linkedin": "https://www.linkedin.com/company/helex-corporation-ltd/about",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/helexcorp",
+    "twitter": "https://twitter.com/helexcorp",
+    "youtube": ""
+}
+}
